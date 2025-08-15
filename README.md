@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL]" alt="[Your Name] - Professional Banner" />
+  <img src="[YOUR_BANNER_IMAGE_URL]" alt="Omkar" />
 </p>
 
 <table>
@@ -115,5 +115,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/omkar-londhe-4619aa324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="mailto:[your.email@example.com]"><strong>[omkarlondhe2849@gmail.com]</strong></a>
+ <a href="mailto:omkarlondhe2849@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
