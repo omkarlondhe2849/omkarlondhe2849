@@ -8,7 +8,6 @@
     📍 Based in Kanadgaon, India.<br>
     🚀 Passionate about turning complex problems into elegant software solutions.
   </p>
-
   <p>
     <a href="https://linkedin.com/in/omkar-londhe-4619aa324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://github.com/omkarlondhe2849"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -18,7 +17,7 @@
 
 ---
 
-### 📊 GitHub & WakaTime Stats
+### 📊 GitHub Stats
 
 <table width="100%">
   <tr>
@@ -44,6 +43,7 @@
 ---
 
 ### 🚀 Key Projects
+
 <table width="100%">
   <tr>
     <td width="100%">
@@ -67,6 +67,7 @@
 ---
 
 ### 🏆 Competitive Programming
+
 <p align="center">
   <a href="https://leetcode.com/omkar_londhe_2849/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://www.codechef.com/users/whiterider"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
