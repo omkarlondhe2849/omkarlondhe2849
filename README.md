@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL]" alt="Omkar" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHTE3XvYdvLAA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725913278854?e=1758153600&v=beta&t=vFTLy68bqP7qAzKD2zNhdcMYp_uiAbzkXMC7QBxMw_s" alt="Omkar" />
 </p>
 
 <table>
