@@ -52,7 +52,7 @@
 > [!TIP]
 > **LeetCode Stats:** (Replace `YOUR_LEETCODE_USERNAME` with your actual username below)
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark" width="48%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=omkar_londhe_2849&theme=dark" width="48%" />
 </p>
 
 ---
