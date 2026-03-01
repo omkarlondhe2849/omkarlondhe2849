@@ -14,45 +14,55 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 🚀 Live Activity & Neon Stats
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarlondhe2849&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarlondhe2849&theme=radical&hide_border=true" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=omkarlondhe2849&theme=radical&hide_border=true" width="60%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-### 📈 Live Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarlondhe2849&bg_color=0D1117&color=00F0FF&line=FF007F&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-### 🛠️ Arsenal & Active Labs
+### 🛠️ Arsenal & Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,js,spring,react,aws,docker,kubernetes,jenkins,godot,unreal,blender&theme=dark" />
 </p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+### 🚀 Featured Projects & Active Labs
 
 <div align="center">
   <table border="0" style="width: 100%; text-align: center;">
     <tr>
       <td width="50%">
+        <h3>🏥 MediBook</h3>
+        <p><i>Full-stack healthcare app with complete Docker & Jenkins CI/CD pipeline.</i></p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+      </td>
+      <td width="50%">
+        <h3>💼 Local Service Provider</h3>
+        <p><i>Dockerized marketplace backend utilizing Spring Boot and PostgreSQL.</i></p>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>⛩️ Mitsuketa</h3>
+        <p><i>A sleek command-line interface tool for watching and streaming anime.</i></p>
+        <img src="https://img.shields.io/badge/CLI_Tool-FF007F?style=for-the-badge&logo=gnometerminal" />
+        <img src="https://img.shields.io/badge/Scripting-00F0FF?style=for-the-badge&logo=bash" />
+      </td>
+      <td width="50%">
         <h3>🔫 GunGame</h3>
-        <p><i>Modular weapon assembly system.</i></p>
+        <p><i>Advanced 3D modular weapon assembly system and custom mechanics.</i></p>
+        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine" />
+        <img src="https://img.shields.io/badge/Blender-EA7633?style=for-the-badge&logo=blender" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>🕹️ 2D Game</h3>
+        <p><i>Interactive 2D gaming experience focusing on smooth mechanics and gameplay.</i></p>
+        <img src="https://img.shields.io/badge/Game_Dev-0A66C2?style=for-the-badge&logo=epicgames" />
         <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine" />
       </td>
       <td width="50%">
-        <h3>🏥 MediBook</h3>
-        <p><i>Full-stack app with CI/CD pipeline.</i></p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+        <p><i>More projects cooking...</i></p>
+        <img src="https://img.shields.io/badge/Stay_Tuned-8A2BE2?style=for-the-badge&logo=github" />
       </td>
     </tr>
   </table>
