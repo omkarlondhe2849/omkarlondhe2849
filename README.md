@@ -30,10 +30,10 @@
 ### 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/omkarlondhe2849/MediBook">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omkarlondhe2849&repo=MediBook&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omkarlondhe2849&repo=MediBook&theme=tokyonight" />
   </a>
   <a href="https://github.com/omkarlondhe2849/GunGame">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omkarlondhe2849&repo=GunGame&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=omkarlondhe2849&repo=GunGame&theme=tokyonight" />
   </a>
 </p>
 
@@ -41,18 +41,16 @@
 
 ### 📊 Live Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarlondhe2849&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlondhe2849&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=omkarlondhe2849&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omkarlondhe2849&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarlondhe2849&theme=tokyonight" width="94%" />
 </p>
 
-> [!TIP]
-> **LeetCode Stats:** (Replace `YOUR_LEETCODE_USERNAME` with your actual username below)
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=omkar_londhe_2849&theme=dark" width="48%" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=omkarlondhe2849&theme=dark" width="48%" />
 </p>
 
 ---
