@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=220&section=header&text=Omkar%20Londhe&fontSize=75&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=250&section=header&text=Omkar%20Londhe&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20%7C%20DevOps%20%7C%20Game%20Dev&descSize=20&descAlignY=60" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Full-Stack+Java+Developer;DevOps+Enthusiast;Game+Dev+Addict;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=500&color=0A66C2&center=true&vCenter=true&width=500&lines=Building+the+Future+of+Gaming;Mastering+Kubernetes+%26+Docker;Full-Stack+Java+Architect;Competitive+Programming+Elite" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://linkedin.com/in/omkar-londhe-4619aa324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,34 +12,51 @@
 
 ---
 
-### ⚡ Quick Bio
+### 🚀 Advanced Bio
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Scalable_Infrastructure-0A66C2?style=for-the-badge&logo=kubernetes" />
+</div>
+
 <p align="center">
-  🚀 <b>3rd Year Computer Engineering @ MITAOE</b> <br> 
-  🛠️ <b>Crafting High-Performance Backend Systems & Immersive Gaming Worlds</b> <br>
-  🛡️ <b>Architecting Privacy-First SDKs & Seamless DevOps Pipelines</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=3rd+Year+Computer+Eng+at+MITAOE;Crafting+Modular+Weapon+Systems+in+Godot;Implementing+CI/CD+for+Cloud+Native+Apps" alt="Bio SVG" />
 </p>
 
 ---
 
-### 🛠️ Animated Tech Stack
+### 🛠️ Animated Tech Universe
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,js,spring,react,aws,docker,kubernetes,jenkins,godot,unreal,blender&theme=dark" />
 </p>
 
 ---
 
-### 🚀 Projects & Progress
+### 🕹️ Active Labs (Built Projects)
 
-| Project | Core Tech Stack | Focus |
-| :--- | :--- | :--- |
-| **GunGame** | `Godot`, `Blender`, `GDScript` | Modular weapon systems & game mechanics |
-| **MediBook** | `Java`, `Spring Boot`, `React`, `Docker` | Full-stack healthcare management with CI/CD |
-| **Age-Face SDK** | `C++`, `Computer Vision`, `AWS` | Privacy-focused biometric verification |
-| **Local Service** | `Spring Boot`, `JavaScript`, `PostgreSQL` | Dockerized local service provider marketplace |
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/PROJECT-GUNGAME-FF4B11?style=for-the-badge&logo=godot-engine" />
+        <br><i>Modular Weapon Architecture in Godot & Blender</i>
+        <br>
+        <img src="https://img.shields.io/badge/GDScript-active?color=478CBF&style=flat-square" />
+        <img src="https://img.shields.io/badge/3D_Modeling-active?color=EA7633&style=flat-square" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/PROJECT-MEDIBOOK-0077B5?style=for-the-badge&logo=spring" />
+        <br><i>Full-Stack Healthcare Ecosystem + CI/CD Pipeline</i>
+        <br>
+        <img src="https://img.shields.io/badge/Spring_Boot-active?color=6DB33F&style=flat-square" />
+        <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🎮 Live Contribution Flow
+### 🎮 Contribution Pulse (Live)
 <div align="center">
   <img src="https://raw.githubusercontent.com/omkarlondhe2849/omkarlondhe2849/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%">
 </div>
