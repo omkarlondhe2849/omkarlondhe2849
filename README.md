@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=200&section=header&text=OMKAR%20LONDHE&fontSize=80&animation=twinkling&fontColor=36BCF7" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Omkar%20Londhe&fontSize=80&animation=twinkling&fontColor=36BCF7" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Level+21+Full-Stack+Engineer;DevOps+and+Cloud+Tactician;Lead+Dev+on+GunGame+(Godot);C%2B%2B+Competitive+Slayer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Level+21+Full-Stack+Engineer;DevOps+%26+Cloud+Tactician;Lead+Dev+on+GunGame+(Godot);C%2B%2B+Competitive+Slayer" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -15,19 +15,19 @@
 ---
 
 ### 🕹️ Player Stats & Lore
-- 🎓 **Origin:** 3rd Year Computer Engineering | MIT Academy of Engineering.
+- 🎓 **Status:** 3rd Year B.Tech Computer Science | **MIT Academy of Engineering**.
 - 🛠️ **Current Quest:** Developing **GunGame** — a modular weapon system in Godot.
-- 🚀 **Server Logic:** Automating **MediBook** health-tech app with Docker & Jenkins CI/CD.
-- 🛡️ **Passive Skill:** Engineering privacy-first Age & Face Verification SDKs.
+- 🚀 **Operations:** Scaling **MediBook** with Dockerized CI/CD pipelines in Jenkins.
+- 🏆 **Achievements:** Active solving on LeetCode & Codeforces using **C++**.
 
 ---
 
-### ⚔️ Inventory (Tech Stack)
+### ⚔️ Skill Tree (Experience Points)
 
-| Mastery | Skill Tree | Level (XP) |
+| Mastery | Skillset | Level (XP) |
 | :--- | :--- | :--- |
 | **Logic** | `C++`, `Java`, `JavaScript` | ![85%](https://geps.dev/progress/85?color=36BCF7) |
-| **Engines** | `Godot`, `Unreal Engine 5`, `Blender` | ![75%](https://geps.dev/progress/75?color=36BCF7) |
+| **Engines** | `Godot Engine`, `Unreal Engine 5`, `Blender` | ![75%](https://geps.dev/progress/75?color=36BCF7) |
 | **Backend** | `Spring Boot`, `Hibernate`, `PostgreSQL` | ![80%](https://geps.dev/progress/80?color=36BCF7) |
 | **Ops** | `Docker`, `Kubernetes`, `Jenkins`, `AWS` | ![70%](https://geps.dev/progress/70?color=36BCF7) |
 
@@ -38,27 +38,27 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
+      <td width="50%" align="left">
         <strong>🧪 MediBook</strong><br/>
-        <em>Health-tech full-stack system.</em><br/>
+        <em>Full-stack health-tech system with CI/CD focus.</em><br/>
         <code>Java</code> <code>Spring</code> <code>Jenkins</code>
       </td>
-      <td width="50%">
+      <td width="50%" align="left">
         <strong>🔫 GunGame</strong><br/>
-        <em>Modular gunsmith & weapon assembly.</em><br/>
+        <em>Modular gunsmith & weapon assembly system.</em><br/>
         <code>Godot</code> <code>GDScript</code> <code>Blender</code>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <strong>🛠️ Local Service</strong><br/>
-        <em>Neighborhood pro connection app.</em><br/>
-        <code>Java</code> <code>Spring</code> <code>Vanilla JS</code>
+      <td width="50%" align="left">
+        <strong>🛠️ Local Service Provider</strong><br/>
+        <em>Connecting users with local service pros.</em><br/>
+        <code>Java</code> <code>Spring Boot</code> <code>Docker</code>
       </td>
-      <td width="50%">
+      <td width="50%" align="left">
         <strong>🎮 2D Platformer</strong><br/>
         <em>Physics-based indie game project.</em><br/>
-        <code>Godot</code> <code>GameDev</code>
+        <code>Godot Engine</code> <code>Pixel Art</code>
       </td>
     </tr>
   </table>
@@ -66,8 +66,14 @@
 
 ---
 
-### 📊 System Performance Metrics
+### 🛠️ The Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,spring,react,mysql,postgres,aws,docker,kubernetes,jenkins,godot,unreal,blender&perline=14" />
+</p>
 
+---
+
+### 📊 System Performance
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkarlondhe2849&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlondhe2849&layout=compact&theme=tokyonight&hide_border=false" width="45%" />
@@ -80,4 +86,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarlondhe2849&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt
+  <img src="https://komarev.com/ghpvc/?username=omkarlondhe2849&color=36BCF7&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+</div>
