@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=75&pause=1000&color=FF007F&center=true&vCenter=true&width=800&height=120&lines=OMKAR+LONDHE" alt="OMKAR LONDHE" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Java+Dev+%7C+DevOps;Game+Architect+(Godot+%26+Unreal);Competitive+Programmer+(C%2B%2B);Building+MediBook+%26+GunGame" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Java+Dev+%7C+DevOps;Game+Architect+(Godot+%26+Unreal);Competitive+Programmer+(C%2B%2B);Building+Mitsuketa+%26+GunGame" alt="Roles" />
 
   <p align="center">
     <a href="https://linkedin.com/in/omkar-londhe-4619aa324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -24,44 +24,55 @@
 ### 🚀 Featured Projects & Active Labs
 
 <div align="center">
-  <table border="0" style="width: 100%; text-align: center;">
+  <table border="0" style="width: 100%; text-align: left;">
     <tr>
-      <td width="50%">
-        <h3>🏥 MediBook</h3>
-        <p><i>Full-stack healthcare app with complete Docker & Jenkins CI/CD pipeline.</i></p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+      <td width="50%" valign="top">
+        <h3 align="center">🏥 MediBook</h3>
+        <p><b>Features:</b> Patient appointment scheduling, secure role-based access dashboards, and an automated Jenkins CI/CD pipeline for seamless deployments.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+          <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins" />
+        </p>
       </td>
-      <td width="50%">
-        <h3>💼 Local Service Provider</h3>
-        <p><i>Dockerized marketplace backend utilizing Spring Boot and PostgreSQL.</i></p>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+      <td width="50%" valign="top">
+        <h3 align="center">💼 Local Service Provider</h3>
+        <p><b>Features:</b> Secure Stripe payments, OTP-based service completion verification, dynamic multi-filter search engine, and a reliable provider review system.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring" />
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3>⛩️ Mitsuketa</h3>
-        <p><i>A sleek command-line interface tool for watching and streaming anime.</i></p>
-        <img src="https://img.shields.io/badge/CLI_Tool-FF007F?style=for-the-badge&logo=gnometerminal" />
-        <img src="https://img.shields.io/badge/Scripting-00F0FF?style=for-the-badge&logo=bash" />
+      <td width="50%" valign="top">
+        <h3 align="center">⛩️ Mitsuketa</h3>
+        <p><b>Features:</b> A "Shazam for anime and movies" built with dual audio/video fingerprinting and a weighted confidence scoring recognition flow.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" />
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
+        </p>
       </td>
-      <td width="50%">
-        <h3>🔫 GunGame</h3>
-        <p><i>Advanced 3D modular weapon assembly system and custom mechanics.</i></p>
-        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine" />
-        <img src="https://img.shields.io/badge/Blender-EA7633?style=for-the-badge&logo=blender" />
+      <td width="50%" valign="top">
+        <h3 align="center">🔫 GunGame</h3>
+        <p><b>Features:</b> Complex modular weapon architecture featuring a shop-to-workbench flow, dynamic stat calculations (damage/recoil), and task validation.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine" />
+          <img src="https://img.shields.io/badge/Blender-EA7633?style=flat-square&logo=blender" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3>🕹️ 2D Game</h3>
-        <p><i>Interactive 2D gaming experience focusing on smooth mechanics and gameplay.</i></p>
-        <img src="https://img.shields.io/badge/Game_Dev-0A66C2?style=for-the-badge&logo=epicgames" />
-        <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine" />
+      <td width="50%" valign="top">
+        <h3 align="center">🕹️ 2D Platformer Arena</h3>
+        <p><b>Features:</b> Survival arena featuring wave-based mechanics, custom character designs, and smart floor-based enemy pathfinding/chasing.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine" />
+        </p>
       </td>
-      <td width="50%">
-        <p><i>More projects cooking...</i></p>
+      <td width="50%" valign="middle" align="center">
+        <p><i>More projects currently compiling...</i></p>
         <img src="https://img.shields.io/badge/Stay_Tuned-8A2BE2?style=for-the-badge&logo=github" />
       </td>
     </tr>
