@@ -1,64 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=051937&height=200&section=header&text=OMKAR%20LONDHE&fontSize=80&animation=fadeIn&fontColor=EAB308" width="100%" />
 
-  <h3>🚀 Full-Stack Architect • DevOps Engineer • Game Designer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:36BCF7&height=260&section=header&text=Omkar%20Londhe&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff" width="100%"/>
 
-  <p>
-    <a href="https://linkedin.com/in/omkar-londhe-4619aa324"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/omkarlondhe2849"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:omkarlondhe2849@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full-Stack+Engineer;Cloud+%26+DevOps+Explorer;Game+Developer+(Godot+%26+Unreal);Competitive+Programmer;Building+Scalable+Systems" />
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/omkar-londhe-4619aa324">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/omkarlondhe2849">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:omkarlondhe2849@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-### ⚡ The Blueprint
-* 🎓 **Identity:** 3rd Year Computer Engineering student at **MIT Academy of Engineering**.
-* 💻 **Current Mission:** Engineering **GunGame**, a modular weapon system in Godot featuring procedural assembly.
-* 🏗️ **Infrastructure:** Scaling **MediBook**, a full-stack health-tech app with Docker & Jenkins CI/CD.
-* 🏆 **Challenge:** Solving complex algorithms on **LeetCode** and **Codeforces** using C++.
+## 🚀 About Me
 
----
-
-### 🛠️ Technical Proficiency (Visual Graph)
-
-**Backend & Logic**
-![Progress](https://geps.dev/progress/85?dangerColor=051937&warningColor=0A66C2&successColor=EAB308)  
-**DevOps & Cloud**
-![Progress](https://geps.dev/progress/70?dangerColor=051937&warningColor=0A66C2&successColor=EAB308)  
-**Game Development**
-![Progress](https://geps.dev/progress/75?dangerColor=051937&warningColor=0A66C2&successColor=EAB308)  
-
----
-
-### 📦 Featured Repositories
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🧪 MediBook** | Full-stack healthcare platform with automated CI/CD pipelines. | `Java` `Spring` `Docker` |
-| **🔫 GunGame** | Modular gunsmith system with custom physics and Blender assets. | `Godot` `GDScript` `Blender` |
-| **🛠️ Local Service** | Connects users with nearby service pros via Spring Boot. | `Java` `Spring` `JS` |
-| **🛡️ Privacy SDK** | Privacy-first age and face verification SDK. | `C++` `Cybersecurity` |
-
----
-
-### 🧰 The Toolbelt
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,spring,react,mysql,postgres,aws,docker,kubernetes,jenkins,godot,unreal,blender&perline=7" />
-</p>
-
----
-
-### 📈 GitHub Ecosystem
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarlondhe2849&theme=tokyonight&show_icons=true&hide_border=true&title_color=EAB308&text_color=FFFFFF&icon_color=0A66C2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlondhe2849&theme=tokyonight&layout=compact&hide_border=true&title_color=EAB308&text_color=FFFFFF" width="45%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omkarlondhe2849&color=051937&style=flat-square&label=SYSTEM+ACCESSES" alt="Views" />
-</div>
+```yaml
+Name: Omkar Londhe
+Role: Java Full-Stack Engineer
+Education: 3rd Year Computer Engineering
+College: MIT Academy of Engineering
+Focus: Backend Systems • DevOps • Game Development
