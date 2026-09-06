@@ -1,26 +1,31 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
 
-<!--                         HERO SECTION                           -->
+<!--                    ANIMATED HERO                          -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<img src="https://i.pinimg.com/originals/8c/9a/0a/8c9a0a092823b128522e8605c3127818.gif"
-  width="100%"
-  height="260"
-  style="object-fit: cover; border-radius: 15px;"
-  alt="Animated Developer Banner"/>
+<img width="100%"
+  height="300"
+  src="https://i.pinimg.com/originals/8c/9a/0a/8c9a0a092823b128522e8605c3127818.gif"
+  alt="Animated Banner"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=72&pause=1200&color=FF007F&center=true&vCenter=true&width=1000&height=110&lines=OMKAR+LONDHE"
+  alt="OMKAR LONDHE"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=700&color=00F0FF&center=true&vCenter=true&width=1000&height=70&lines=Full-Stack+Java+Developer+%E2%98%95;DevOps+%26+Cloud+Engineer+%E2%98%81%EF%B8%8F;Game+Developer+%F0%9F%8E%AE;Competitive+Programmer+%7C+C%2B%2B;Building+Mitsuketa+%26+GunGame+%F0%9F%94%A5"
+  alt="Animated Roles"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=68&pause=1200&color=FF007F&center=true&vCenter=true&width=900&height=100&lines=OMKAR+LONDHE"
-  alt="Omkar Londhe"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=Full-Stack+Java+Developer;DevOps+%26+Cloud+Enthusiast;Game+Developer+%7C+Godot+%26+Unreal;Competitive+Programmer+%7C+C%2B%2B;Building+Mitsuketa+%7C+GunGame"
-  alt="Typing Roles"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" width="90%"/>
 
 <br>
+
+<!-- SOCIAL -->
 
 <a href="https://linkedin.com/in/omkar-londhe-4619aa324">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -34,112 +39,187 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=omkarlondhe2849&label=Profile%20Views&color=ff007f&style=for-the-badge"/>
+<a href="https://github.com/omkarlondhe2849">
+<img src="https://komarev.com/ghpvc/?username=omkarlondhe2849&label=PROFILE+VIEWS&style=for-the-badge&color=FF007F"/>
+</a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                         ABOUT ME                               -->
+<!--                       SYSTEM STATUS                        -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 👨‍💻 About Me
+<div align="center">
 
-```java
-public class OmkarLondhe {
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20%F0%9F%94%A5-00F0FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-CLOUD%20%7C%20DEVOPS%20%7C%20BACKEND-FF007F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COFFEE-∞-8A2BE2?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 
-    String role = "Full-Stack Java Developer";
-    String specialization = "Backend + DevOps + Cloud";
-    String primaryLanguage = "Java";
-    
-    String[] interests = {
-        "Distributed Systems",
-        "Cloud Infrastructure",
-        "DevOps",
-        "Game Development",
-        "Competitive Programming"
-    };
+</div>
 
-    String[] currentlyBuilding = {
-        "Mitsuketa",
-        "GunGame"
-    };
+<br>
 
-    String mindset = "Build → Break → Learn → Improve";
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+  width="100%"/>
 
-}
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                         ABOUT                               -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧬 `whoami`
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   👨‍💻  OMKAR LONDHE                                        │
+│                                                            │
+│   ☕  Full-Stack Java Developer                            │
+│   ☁️  DevOps / Cloud Enthusiast                            │
+│   🎮  Game Developer                                       │
+│   🧠  Competitive Programmer                              │
+│                                                            │
+│   BUILDING SYSTEMS • BREAKING BUGS • SHIPPING PRODUCTS    │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
-> 🚀 I enjoy turning ideas into real-world applications, scalable backends,
-> automated deployments, and interactive game systems.
+</div>
 
-> ⚡ I like working across the entire stack — from writing APIs and databases
-> to containerization, CI/CD, cloud infrastructure, and game architecture.
+> I enjoy building **real-world software systems**, scalable backend services,
+> automated deployment pipelines, cloud infrastructure and interactive game systems.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<details>
+<summary><b>⚡ More about me</b></summary>
 
-<!--                       TECH STACK                               -->
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+```yaml
+name: Omkar Londhe
 
-## 🛠️ Tech Arsenal
+primary_stack:
+  - Java
+  - Spring Boot
+  - React
+  - C++
+  - Python
 
-### 💻 Languages
+cloud:
+  - AWS
+  - Docker
+  - Kubernetes
+  - Jenkins
 
-<p align="center">
+interests:
+  - Backend Engineering
+  - DevOps
+  - Cloud Architecture
+  - Game Development
+  - System Design
+  - Competitive Programming
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript"/>
+current_projects:
+  - Mitsuketa
+  - GunGame
+```
 
-</p>
+</details>
 
-### 🌐 Full-Stack Development
+<br>
 
-<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+  width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=spring,react,nodejs,html,css"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</p>
+<!--                       TECH STACK                            -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## ⚔️ `TECH ARSENAL`
+
+<div align="center">
+
+### ☕ Backend & Languages
+
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python"/>
+
+<br><br>
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css"/>
+
+<br><br>
 
 ### ☁️ Cloud & DevOps
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,terraform"/>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github"/>
+<br><br>
 
-</p>
+### 🗄️ Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,redis"/>
+
+<br><br>
 
 ### 🎮 Game Development
 
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=godot,unreal,blender"/>
 
-</p>
+<br><br>
 
-### 🗄️ Databases & Tools
+### 🔧 Tools
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,maven,vscode"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,postman,maven"/>
+</div>
 
-</p>
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     POWER LEVELS                           -->
 
-<!--                       FEATURED PROJECTS                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 📈 `SKILL MATRIX`
 
-## 🚀 Featured Projects
+<div align="center">
+
+| Technology           |           Level          |
+| :------------------- | :----------------------: |
+| ☕ Java / Spring Boot | ████████████████████ 95% |
+| 🐳 Docker            | ██████████████████░░ 88% |
+| ☁️ AWS               | █████████████████░░░ 85% |
+| ⚛️ React             | ████████████████░░░░ 82% |
+| ☸️ Kubernetes        | ███████████████░░░░░ 78% |
+| 🎮 Godot / Game Dev  | ████████████████░░░░ 82% |
+| 💻 C++               | █████████████████░░░ 85% |
+| 🐍 Python            | ███████████████░░░░░ 76% |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+  width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    PROJECT SHOWCASE                         -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🚀 `PROJECT SHOWCASE`
 
 <div align="center">
 
@@ -149,84 +229,61 @@ public class OmkarLondhe {
 
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 MediBook</h3>
+<h2 align="center">🏥 MediBook</h2>
 
-<p align="center">
-<b>Healthcare Management Platform</b>
-</p>
+<div align="center">
 
-Patient appointment scheduling platform with role-based dashboards, secure authentication, and automated CI/CD deployment workflows.
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge"/>
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+<br>
 
-</p>
+Healthcare management platform featuring:
 
-</td>
+* 🗓️ Appointment scheduling
+* 🔐 Role-based authentication
+* 📊 User dashboards
+* 📬 Automated notifications
+* 🚀 CI/CD deployment pipeline
 
-<td width="50%" valign="top">
+<br>
 
-<h3 align="center">💼 Local Service Provider</h3>
+<div align="center">
 
-<p align="center">
-<b>Service Marketplace Platform</b>
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,jenkins,docker"/>
 
-A complete provider marketplace featuring secure payments, OTP verification, reviews, service discovery, and multi-filter search.
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">⛩️ Mitsuketa</h3>
-
-<p align="center">
-<b>Anime & Movie Recognition Engine</b>
-</p>
-
-A recognition system inspired by Shazam that combines audio and video fingerprinting with weighted confidence scoring.
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
-</p>
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔫 GunGame</h3>
+<h2 align="center">💼 Local Service Provider</h2>
 
-<p align="center">
-<b>Modular Weapon System</b>
-</p>
+<div align="center">
 
-A game architecture experiment featuring weapon customization, shop-to-workbench progression, dynamic weapon statistics, and task validation.
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-FF007F?style=for-the-badge"/>
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blender-EA7600?style=flat-square&logo=blender&logoColor=white"/>
+<br>
 
-</p>
+Marketplace system featuring:
+
+* 💳 Secure payment integration
+* 🔐 OTP verification
+* 🔎 Dynamic filtering
+* ⭐ Provider reviews
+* 👤 User/provider roles
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,postgresql,stripe"/>
+
+</div>
 
 </td>
 
@@ -236,36 +293,65 @@ A game architecture experiment featuring weapon customization, shop-to-workbench
 
 <td width="50%" valign="top">
 
-<h3 align="center">🕹️ 2D Platformer Arena</h3>
+<h2 align="center">⛩️ Mitsuketa</h2>
 
-<p align="center">
-<b>Wave-Based Survival Game</b>
-</p>
+<div align="center">
 
-A 2D arena experiment with wave-based enemy spawning, custom characters, combat mechanics, and floor-aware enemy chasing.
+<img src="https://img.shields.io/badge/STATUS-BUILDING-00F0FF?style=for-the-badge"/>
 
-<p align="center">
+</div>
 
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white"/>
+<br>
 
-</p>
+An experimental **anime & movie recognition engine** inspired by Shazam.
+
+<br>
+
+🎧 Audio fingerprinting
+🎥 Video fingerprinting
+🧠 Weighted confidence scoring
+⚡ FastAPI backend
+🔍 OpenCV processing
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,opencv,fastapi"/>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">⚙️ More Projects</h3>
+<h2 align="center">🔫 GunGame</h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRrNmJxOTU1N3RxZGg5ZWFyMWYyM3B2OG5sZ2x4amttM29xbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtdrWqTqWg4p0A/giphy.gif"
-width="160"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FF007F?style=for-the-badge"/>
 
-</p>
+</div>
 
-<p align="center">
-<b>🚧 Building something new...</b>
-</p>
+<br>
+
+Modular FPS weapon architecture.
+
+<br>
+
+🔧 Weapon customization
+🛒 Shop → Workbench flow
+📊 Dynamic weapon stats
+🎯 Damage / recoil systems
+✅ Task validation
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=godot,blender"/>
+
+</div>
 
 </td>
 
@@ -275,46 +361,45 @@ width="160"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                       CURRENT FOCUS                            -->
+<!--                  MINI PROJECT GRID                         -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🔥 Currently Exploring
+## 🎮 More Experiments
 
 <div align="center">
 
-|      ⚡ Area      | 🎯 Focus                                  |
-| :--------------: | :---------------------------------------- |
-|     ☁️ Cloud     | AWS Infrastructure & Architecture         |
-|     🚢 DevOps    | Docker, Kubernetes & CI/CD                |
-|     ☕ Backend    | Spring Boot & Scalable APIs               |
-|    🎮 Game Dev   | Godot & Unreal Engine                     |
-|   🧠 Algorithms  | Data Structures & Competitive Programming |
-| 🏗️ Architecture | Distributed Systems & Backend Design      |
+| Project                   | What I Built                           |
+| :------------------------ | :------------------------------------- |
+| 🕹️ 2D Platformer Arena   | Wave survival + enemy pathfinding      |
+| 🌱 Crop Disease Detection | Computer vision based crop analysis    |
+| 🛡️ Cyber Shield          | Network security / Cisco project       |
+| 🌿 Virtual Herbal Garden  | Interactive 3D educational environment |
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+  width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                     GITHUB STATISTICS                          -->
+<!--                     GITHUB STATS                            -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📊 `GITHUB SYSTEM MONITOR`
 
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=omkarlondhe2849&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=omkarlondhe2849&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlondhe2849&layout=compact&theme=radical&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlondhe2849&layout=compact&langs_count=10&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -322,7 +407,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlondhe2
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarlondhe2849&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=omkarlondhe2849&theme=radical&hide_border=true&mode=weekly"
+width="70%"/>
 
 </div>
 
@@ -330,88 +416,203 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarlondhe2
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=omkarlondhe2849&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omkarlondhe2849&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&column=6"
+width="95%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    CONTRIBUTION GRAPH                          -->
+<!--                     ACTIVITY GRAPH                          -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🐍 My Contribution Journey
+## 📡 `ACTIVITY STREAM`
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarlondhe2849&theme=react-dark&hide_border=true&area=true&custom_title=Omkar's%20Contribution%20Activity"
+width="95%"/>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                    CONTRIBUTION SNAKE                       -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🐍 `CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/omkarlondhe2849/omkarlondhe2849/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/omkarlondhe2849/omkarlondhe2849/output/github-contribution-grid-snake.svg">
 
 <img src="https://raw.githubusercontent.com/omkarlondhe2849/omkarlondhe2849/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"/>
+    alt="GitHub Contribution Snake"
+    width="95%"/> </picture>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!--                    CODING PHILOSOPHY                            -->
+<!--                       CURRENT MISSION                        -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🧠 Developer Philosophy
+## 🎯 `CURRENT MISSION`
 
 <div align="center">
 
 ```text
-        THINK
-          ↓
-       DESIGN
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-        BREAK
-          ↓
-        DEBUG
-          ↓
-        LEARN
-          ↓
-        REPEAT
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   [███████████████████████████████████░░░]  BUILDING       │
+│                                                            │
+│   ☕ Master Spring Boot                                   │
+│   ☁️  Improve AWS Architecture                            │
+│   🐳 Deep Dive into Docker                                │
+│   ☸️  Learn Kubernetes                                    │
+│   🎮 Develop GunGame                                      │
+│   ⛩️  Build Mitsuketa                                     │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-> "The best way to understand a system is to build one."
+<br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   DEV PHILOSOPHY                           -->
 
-<!--                          CONNECT                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🧠 `DEVELOPER PROTOCOL`
 
-## 🌐 Let's Connect
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&height=50&lines=Think+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Learn;Code+is+easy.+Systems+are+interesting.;Build+things+you+wish+already+existed."
+alt="Developer Protocol"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+       ┌───────────┐
+       │   IDEA    │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │  DESIGN   │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │   BUILD   │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │   BREAK   │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │   DEBUG   │
+       └─────┬─────┘
+             ↓
+       ┌───────────┐
+       │   LEARN   │
+       └─────┬─────┘
+             │
+             └──────────────→ 🔁
+```
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"
+width="100%"/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                     FUN TERMINAL                            -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🖥️ `TERMINAL`
+
+<div align="center">
+
+```console
+$ whoami
+omkar-londhe
+
+$ cat mission.txt
+Build scalable systems.
+Automate everything.
+Learn continuously.
+Ship useful software.
+
+$ ./status.sh
+
+[✓] Backend
+[✓] Full Stack
+[✓] Git
+[✓] Docker
+[✓] AWS
+[✓] Game Development
+[~] Kubernetes
+[~] System Design
+
+$ echo "keep building"
+keep building 🚀
+```
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!--                       CONNECT                                -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 `CONNECT_WITH_ME`
 
 <div align="center">
 
 <a href="https://linkedin.com/in/omkar-londhe-4619aa324">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:omkarlondhe2849@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Send%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/omkarlondhe2849">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FF007F&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Keep+Building.+Keep+Learning.+Keep+Shipping.%F0%9F%9A%80"
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=25&pause=1200&color=FF007F&center=true&vCenter=true&width=800&height=50&lines=Thanks+for+visiting+%F0%9F%91%8B;See+you+in+the+next+commit+%F0%9F%9A%80;Keep+Building.+Keep+Learning."
 alt="Footer"/>
 
 </div>
@@ -420,6 +621,6 @@ alt="Footer"/>
 
 <div align="center">
 
-### ⭐ Star my repositories if you find them interesting!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
