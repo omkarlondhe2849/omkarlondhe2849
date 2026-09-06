@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8c/9a/0a/8c9a0a092823b128522e8605c3127818.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Colorful Animated Background" />
+  <img src="https://i.pinimg.com/originals/8c/9a/0a/8c9a0a092823b128522e8605c3127818.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Colorful Animated Background"/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=900&size=75&pause=1000&color=FF007F&center=true&vCenter=true&width=800&height=120&lines=OMKAR+LONDHE" alt="OMKAR LONDHE" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Java+Dev+%7C+DevOps;Game+Architecture;System+Design" alt="Animated subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=500&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Java+Dev+%7C+DevOps;Game+Architect+(Godot+%26+Unreal);Competitive+Programmer+(C%2B%2B);Building+Mitsuketa+%26+GunGame" alt="Roles" />
 
   <p align="center">
     <a href="https://linkedin.com/in/omkar-londhe-4619aa324"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -83,3 +83,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omkarlondhe2849&color=FF007F&style=for-the-badge&label=PROFILE+VIEWS" />
 </div>
+ make it more better it is github readmi file
